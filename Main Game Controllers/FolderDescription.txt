@@ -1,0 +1,1 @@
+In this folder you'll find codes that do the most important things in the game like creating a code, scoring answers, controlling dragging and placing the balls.
